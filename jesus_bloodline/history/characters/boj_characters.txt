@@ -1,0 +1,21 @@
+95000={
+	name=Jesus
+	dynasty=95000
+	dna="0ka000aib00"
+	properties="0j0ebk0000000000000"
+	culture=ashkenazi religion=catholic
+	martial=4 diplomacy=16 stewardship=9 intrigue=7 learning=21
+	add_trait=mastermind_theologian add_trait=humble add_trait=scarred add_trait=shrewd
+	add_trait=mystic add_trait=scholar add_trait=theologian add_trait=kind add_trait=charitable
+	add_trait=brave add_trait=stubborn add_trait=sympathy_judaism add_trait=zodiac_capricorn
+	add_trait=reincarnation
+	1.12.25={ birth=yes }
+	32.12.25={
+		create_bloodline = {
+			type = jesusblood
+			has_dlc = "Holy Fury"
+	      }
+		}
+	32.12.25={ give_nickname = nick_christ }
+	37.12.25={ death=yes }
+}

@@ -1,0 +1,25 @@
+namespace = BOJ
+
+character_event = {
+	id = BOJ.1
+	
+	hide_window = yes
+	is_triggered_only = yes
+	
+	trigger = {
+		has_dlc = "Holy Fury"
+		religion = catholic
+		trait = zealous
+	}
+	
+	immediate = {
+		random = {
+			chance = 1
+			any_bloodline = {
+				limit = { has_bloodline_flag = jesusblood_flag }
+				ROOT = { add_to_bloodline = PREV }
+			}
+        }
+	}
+}
+	
