@@ -1,0 +1,11 @@
+# hair, mouth, chin, nose, eyes, cheek, ear, neck
+spriteTypes = {
+
+		spriteType = {
+		name = "GFX_jesus_base"
+		texturefile = "gfx\\characters\\shared\\jesus_portrait.dds"
+		noOfFrames = 1
+		norefcount = yes
+		can_be_lowres = yes
+	}
+}

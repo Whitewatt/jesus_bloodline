@@ -1,0 +1,3 @@
+jesusgfx = {
+	skin_tone = 0
+}

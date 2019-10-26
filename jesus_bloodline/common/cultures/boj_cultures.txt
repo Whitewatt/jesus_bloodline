@@ -1,0 +1,10 @@
+bojc_group = {
+	graphical_cultures = { jesusgfx }
+	jesus_culture = {
+		graphical_cultures = { jesusgfx }
+		color = { 0.02 0.21 0.38 }
+
+		male_names = { Jesus }
+		female_names = { Jesus }
+	}
+}

@@ -3,7 +3,7 @@
 	dynasty=95000
 	dna="0ka000aib00"
 	properties="0j0ebk0000000000000"
-	culture=ashkenazi religion=catholic
+	culture=jesus_culture religion=catholic
 	martial=4 diplomacy=16 stewardship=9 intrigue=7 learning=21
 	add_trait=mastermind_theologian add_trait=humble add_trait=scarred add_trait=shrewd
 	add_trait=mystic add_trait=scholar add_trait=theologian add_trait=kind add_trait=charitable
